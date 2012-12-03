@@ -2,5 +2,10 @@ testowa teściowa
 druga linia
 tzecia linia AAA
 
+
+AAA
+BBB
+VVV
+234
 to teraz ja zmodyfikowalem
 aaa
