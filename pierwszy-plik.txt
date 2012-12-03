@@ -13,3 +13,9 @@ to teraz ja zmodyfikowalem
 aaa
 
 chce konfliktu
+      _       _ 
+     <*>     <*>
+          |
+       \_____/
+
+
