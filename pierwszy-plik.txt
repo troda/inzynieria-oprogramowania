@@ -6,3 +6,5 @@ AAA
 BBB
 VVV
 234
+to teraz ja zmodyfikowalem
+aaa
