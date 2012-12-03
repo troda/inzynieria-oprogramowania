@@ -1,9 +1,15 @@
 testowa teściowa
 druga linia
+tzecia linia AAA
 
 wepchne sie
 
 to teraz jas zmodyfikowalem
+
+AAA
+BBB
+234
+to teraz ja zmodyfikowalem
 aaa
 
 chce konfliktu
