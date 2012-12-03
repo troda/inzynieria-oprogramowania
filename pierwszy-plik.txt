@@ -1,3 +1,9 @@
 testowa treść
 druga linia
+<<<<<<< HEAD
 trzecia linia AAA
+=======
+
+to teraz ja zmodyfikowalem
+aaa
+>>>>>>> 225b8ff530a4be6df660f1f76b6124ea40adb0be
