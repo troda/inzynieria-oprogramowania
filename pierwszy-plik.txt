@@ -2,6 +2,8 @@ testowa teściowa
 druga linia
 tzecia linia AAA
 
+kolejna zmiana
+
 wepchne sie
 
 to teraz jas zmodyfikowalem
