@@ -1,5 +1,9 @@
 testowa teściowa
 druga linia
 
-to teraz ja zmodyfikowalem
+wepchne sie
+
+to teraz jas zmodyfikowalem
 aaa
+
+chce konfliktu
